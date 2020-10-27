@@ -71,8 +71,6 @@ bookmarkRouter
 
     res.status(204).end()
 
-
-    
 })
 
 
