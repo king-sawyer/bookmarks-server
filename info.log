@@ -1,0 +1,37 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id c05b1f34-6d96-4c22-a278-77131 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Bookmark with id of 956f7850-d7b5-42af-8803-1fb37c8f6cb8 and title of undefined created","level":"info"}
+{"message":"url is required","level":"error"}
+{"message":"Bookmark with id of df8eb781-68a0-4449-9d12-ab29b2d06a53 and title of Sawyer created","level":"info"}
+{"message":"url is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Bookmark with id of 289b303a-06ce-4f79-8e48-b4cb805df7f5 and title of Sawyer created","level":"info"}
+{"message":"Bookmark with id of ddf73f2d-8881-4d89-a1bf-63fd9be7fe07 and title of Shumbidy created","level":"info"}
+{"message":"Card with id ddf73f2d-8881-4d89-a1bf-63fd9be7fe0 not found","level":"error"}
+{"message":"Card with id ddf73f2d-8881-4d89-a1bf-63fd9be7fe0 not found","level":"error"}
+{"message":"Card with id ddf73f2d-8881-4d89-a1bf-63fd9be7fe not found","level":"error"}
+{"message":"Bookmark with id of a2e26e4a-3251-4008-aa1d-808cce8620c1 and title of Shumbidy created","level":"info"}
+{"message":"Card with id aa739239-01fc-4c9a-90a2-cb85b703f23e not found","level":"error"}
+{"message":"Card with id f2516f8b-51bd-426d-8820-b90d2a525ccd not found","level":"error"}
+{"message":"Bookmark with id a9cee7f7-7452-407d-bd6d-b4977ed37a31 deleted","level":"info"}
+{"message":"Bookmark with id a9cee7f7-7452-407d-bd6d-b4977ed37a31 deleted","level":"info"}
+{"message":"Bookmark with id d7f0cff9-cc8c-4a17-9c60-d50deb8131e7 deleted","level":"info"}
+{"message":"Card with id d7f0cff9-cc8c-4a17-9c60-d50deb8131e7 not found","level":"error"}
+{"message":"Bookmark with id 4323573b-dd94-46b5-bd21-aa51c1bf2d6c deleted","level":"info"}
+{"message":"Bookmark with id 4323573b-dd94-46b5-bd21-aa51c1bf2d6c not found","level":"error"}
+{"message":"Bookmark with id 4568a4db9-bb1b-4c4c-ae01-6f821f858ffd not found","level":"error"}
+{"message":"Bookmark with id 568a4db9-bb1b-4c4c-ae01-6f821f858ffd deleted","level":"info"}
+{"message":"Bookmark with id 568a4db9-bb1b-4c4c-ae01-6f821f858ffd not found","level":"error"}
+{"message":"Bookmark with id f008c84a-0cf0-4281-91b9-2833b2f14ecd deleted","level":"info"}
+{"message":"Bookmark with id f008c84a-0cf0-4281-91b9-2833b2f14ecd deleted","level":"info"}
+{"message":"Bookmark with id f008c84a-0cf0-4281-91b9-2833b2f14ecd not found","level":"error"}
+{"message":"Bookmark with id b82634b6-1f9d-49b4-8407-27d3b76b55de deleted","level":"info"}
+{"message":"Bookmark with id b82634b6-1f9d-49b4-8407-27d3b76b55de deleted","level":"info"}
+{"message":"Bookmark with id b82634b6-1f9d-49b4-8407-27d3b76b55de not found","level":"error"}
+{"message":"Bookmark with id e2ab919d-3199-472a-b6ed-a3b0d145bf77 deleted","level":"info"}
+{"message":"Bookmark with id a1da6d76-6e76-42ae-99d9-3b2daac5c783 deleted","level":"info"}
+{"message":"Card with id a1da6d76-6e76-42ae-99d9-3b2daac5c783 not found","level":"error"}
+{"message":"Bookmark with id 89648016-139a-4127-9798-659a9b7cb6e0 deleted","level":"info"}
