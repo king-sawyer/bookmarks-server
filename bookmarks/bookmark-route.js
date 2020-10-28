@@ -50,7 +50,7 @@ bookmarkRouter
     const bookmark = bookmarks.find(mark => mark.id == id)
 
     if(!bookmark){
-        logger.error(`Card with id ${id} not found`)
+        logger.error(`Bookmark with id ${id} not found`)
         return res.status(404).send('Bookmark not found')
     }
     res.json(bookmark)
@@ -60,7 +60,7 @@ bookmarkRouter
     const bookmarkIndex = bookmarks.findIndex(b => b.id==id)
 
     if(bookmarkIndex=== -1){
-        logger.error(`Card with id ${id} not found`)
+        logger.error(`Bookmark with id ${id} not found`)
         return res.status(404).send('Not found')
     }
 
